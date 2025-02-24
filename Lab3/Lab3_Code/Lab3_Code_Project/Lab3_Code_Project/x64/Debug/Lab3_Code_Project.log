@@ -1,0 +1,4 @@
+﻿  Lab3_Code_Project.cpp
+D:\UTH\IT\PTTKGT\Lab3\Lab3_Code\Lab3_Code_Project\Lab3_Code_Project\Lab3_Code_Project.cpp(147,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\UTH\IT\PTTKGT\Lab3\Lab3_Code\Lab3_Code_Project\Lab3_Code_Project\Lab3_Code_Project.cpp(148,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab3_Code_Project.vcxproj -> D:\UTH\IT\PTTKGT\Lab3\Lab3_Code\Lab3_Code_Project\x64\Debug\Lab3_Code_Project.exe
