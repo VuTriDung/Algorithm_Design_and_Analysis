@@ -1,0 +1,21 @@
+﻿  Cau1.cpp
+  Cau2.cpp
+D:\UTH\IT\PTTKGT\Lab1\Lab1_Separated\Cau1\Cau1\Cau2.cpp(15,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Cau3.cpp
+  Cau4.cpp
+  Cau5.cpp
+  Cau6.cpp
+  Cau7.cpp
+D:\UTH\IT\PTTKGT\Lab1\Lab1_Separated\Cau1\Cau1\Cau7.cpp(21,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Cau8.cpp
+  Cau9.cpp
+  Generating Code...
+Cau2.obj : error LNK2005: main already defined in Cau1.obj
+Cau3.obj : error LNK2005: main already defined in Cau1.obj
+Cau4.obj : error LNK2005: main already defined in Cau1.obj
+Cau5.obj : error LNK2005: main already defined in Cau1.obj
+Cau6.obj : error LNK2005: main already defined in Cau1.obj
+Cau7.obj : error LNK2005: main already defined in Cau1.obj
+Cau8.obj : error LNK2005: main already defined in Cau1.obj
+Cau9.obj : error LNK2005: main already defined in Cau1.obj
+D:\UTH\IT\PTTKGT\Lab1\Lab1_Separated\Cau1\x64\Debug\Cau1.exe : fatal error LNK1169: one or more multiply defined symbols found

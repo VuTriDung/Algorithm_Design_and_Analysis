@@ -1,0 +1,4 @@
+﻿  Lab1_Code_Project.cpp
+D:\UTH\IT\PTTKGT\Lab1\Lab1_Code\Lab1_Code_Project\Lab1_Code_Project\Lab1_Code_Project.cpp(121,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\UTH\IT\PTTKGT\Lab1\Lab1_Code\Lab1_Code_Project\Lab1_Code_Project\Lab1_Code_Project.cpp(164,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Lab1_Code_Project.vcxproj -> D:\UTH\IT\PTTKGT\Lab1\Lab1_Code\Lab1_Code_Project\x64\Debug\Lab1_Code_Project.exe
